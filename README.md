@@ -1,2 +1,1 @@
-# gitignore
-Arquivos ignorados
+
